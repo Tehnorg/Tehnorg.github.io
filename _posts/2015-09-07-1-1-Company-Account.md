@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "My New Page"
-category:2015-09-07 12:00:00
+category: ref
 order: 1
 ---
 
