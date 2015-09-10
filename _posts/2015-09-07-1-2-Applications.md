@@ -1,6 +1,8 @@
 ---
-layout: post
-title: 1.2. Applications
+layout: page
+title: "My New Page"
+category:2015-09-07 12:00:00
+order: 1
 ---
 * 1.2.1.	Create an application
 * 1.2.2.	Application settings
